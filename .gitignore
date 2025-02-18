@@ -1,0 +1,8 @@
+# Ignore local Terraform directories and files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# (Optional) Ignore local editor config files if you don't want them in version control
+.vscode/
